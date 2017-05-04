@@ -21,7 +21,7 @@
 		</script>
 		<style type="text/css">
 			body{
-				background: url(img/dancheBG3.jpg) no-repeat 0px 0px;
+				background: url(dancheBG3.jpg) no-repeat 0px 0px;
 				background-size:cover;
 				-webkit-background-size:cover;
 				-moz-background-size:cover;
